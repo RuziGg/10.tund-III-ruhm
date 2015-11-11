@@ -3,7 +3,7 @@
 	require_once("../config_global.php");
 	require_once("User.class.php");
 	
-	$database = "if15_romil_3";
+	$database = "if15_ruzjaa_3";
 	
 	session_start();
 	
